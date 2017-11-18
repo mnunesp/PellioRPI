@@ -8,7 +8,7 @@ def signup(request):
         print(request.POST)
         if form.is_valid():
             user = form.save()
-            auth_login(request, user)
+            #auth_login(request, user)
             return redirect('index')
     else:
         form = UserCreationForm()
