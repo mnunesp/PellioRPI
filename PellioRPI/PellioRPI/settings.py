@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """
 Django settings for PellioRPI project.
 
@@ -20,7 +21,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/1.11/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '7gt6f-dz3wm=esxe)2d_@a^n9^d)a_84ipcol+@b(kl^lu%m*#'
+SECRET_KEY = 'removed'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
